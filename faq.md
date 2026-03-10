@@ -1,82 +1,104 @@
-# Frequently Asked Questions
+# Preguntas frecuentes
 
 ## General
 
-### Is my data secure?
+### ¿Mis datos están seguros?
 
-Yes. Skribane is a desktop application — all your data (novels, Codex, configuration) is stored locally on your computer. There are no Skribane servers storing your content. Your AI API keys are kept in a secure local file, separate from the database.
+Sí. Skribane es una aplicación de escritorio — todos tus datos (novelas, Codex, configuración) se almacenan localmente en tu equipo. No hay servidores de Skribane almacenando tu contenido. Tus API keys de IA se guardan en un archivo local seguro, separado de la base de datos.
 
-### Do I need an internet connection?
+### ¿Necesito conexión a internet?
 
-Only for AI features that use cloud providers (OpenAI, Gemini, Anthropic). You can write, organize, edit, and export your novel completely offline. If you use local AI (LM Studio, Ollama), you don't need internet for AI either.
+Solo para las funciones de IA que usan proveedores en la nube (OpenAI, Gemini, Anthropic). Puedes escribir, organizar, editar y exportar tu novela completamente offline. Si usas IA local (LM Studio, Ollama), tampoco necesitas internet para la IA.
 
-### What languages can I write in?
+### ¿En qué idiomas puedo escribir?
 
-You can write your novel in any language. Skribane's interface is available in Spanish and English. The AI generates text in the same language you write your novel in — if you write in English, the AI responds in English.
+Puedes escribir tu novela en cualquier idioma. La interfaz de Skribane está disponible en español e inglés. La IA genera texto en el mismo idioma en que escribes tu novela — si escribes en inglés, la IA responde en inglés.
 
-### Can I have multiple projects at once?
+### ¿Puedo tener varios proyectos a la vez?
 
-Yes. You can create as many projects (novels) as you want. Each project has its own Codex, structure, statistics, and AI configuration. Switch between projects from the "Projects" section in the sidebar.
+Sí. Puedes crear tantos proyectos (novelas) como quieras. Cada proyecto tiene su propio Codex, estructura, estadísticas y configuración de IA. Cambia entre proyectos desde la sección "Proyectos" en la barra lateral.
 
-## Artificial Intelligence
+## Licencia y trial
 
-### How much does AI usage cost?
+### ¿Cuánto dura la prueba gratuita?
 
-Skribane doesn't charge for AI usage. You pay the provider directly (OpenAI, Google, Anthropic) based on your usage. Typical cost for novel writing is €5-15 per month. You can set a monthly budget in Skribane to control spending.
+21 días, con todas las funcionalidades desbloqueadas. No necesitas registrarte ni dar datos de pago.
 
-### Can I use AI for free?
+### ¿Qué pasa cuando termina el trial?
 
-Yes, with local models. Install [LM Studio](https://lmstudio.ai/) or [Ollama](https://ollama.com/), download a model (7B+ parameters recommended), and connect it to Skribane. Quality depends on your hardware, but it's completely free.
+Se muestra una pantalla de activación. Necesitas una license key para seguir usando Skribane. Tus datos nunca se borran y siempre puedes exportar tu manuscrito, incluso sin licencia. Más detalles en [Licencia y activación](/licensing).
 
-### Will the AI write my novel for me?
+### ¿La licencia es perpetua?
 
-No. Skribane uses AI as a co-pilot: it helps you generate drafts, improve text, maintain coherence, and overcome creative blocks. You make all creative decisions. Every AI suggestion is shown in a preview panel where you decide whether to accept, discard, or regenerate.
+Sí. Pagas 59€ una sola vez y usas Skribane para siempre, incluyendo todas las actualizaciones futuras. Sin renovaciones, sin suscripción.
 
-### Which model should I choose?
+### ¿En cuántos equipos puedo usar mi licencia?
 
-Depends on your budget and priorities:
+En hasta 2 equipos simultáneamente. Si necesitas cambiar de equipo, desactiva la licencia en el anterior y actívala en el nuevo. Más detalles en [Licencia y activación](/licensing).
 
-- **GPT-4o** or **Gemini 2.5 Pro** — Best quality, more expensive.
-- **GPT-4o mini** or **Gemini 2.5 Flash** — Good quality/price balance for daily use.
-- **Claude Sonnet 4** — Excellent for long, coherent text.
-- **Claude Haiku 4.5** — Fast and affordable.
+### He perdido mi license key
 
-If you don't know where to start, GPT-4o mini or Gemini 2.5 Flash are good initial options with low cost.
+La license key te llegó por email tras la compra. Busca un correo de Lemon Squeezy. Si no lo encuentras, escribe a contacto@skribane.com con los datos de tu compra.
 
-### The AI generates text that doesn't respect the POV or tense
+## Inteligencia Artificial
 
-Make sure you have POV and tense configured in Options. Skribane injects these instructions into the prompt, but some models (especially smaller local ones) may ignore them. Cloud models (GPT-4o, Gemini 2.5, Claude Sonnet) follow these instructions well.
+### ¿Cuánto cuesta usar la IA?
 
-### The AI doesn't know my characters
+Skribane no cobra por el uso de IA. Tú pagas directamente al proveedor (OpenAI, Google, Anthropic) según tu uso. El coste típico para escritura de novelas es de 5-15€ al mes. Puedes establecer un presupuesto mensual en Skribane para controlar el gasto.
 
-Make sure your characters are in the Codex with complete names and descriptions. The AI automatically selects the most relevant entries for each scene. If an important character doesn't appear in the context, you can manually assign them to the scene from the editor header (characters per scene), or mark them as "Always include in AI" in their Codex entry.
+### ¿Puedo usar IA gratis?
 
-## Import
+Sí, con modelos locales. Instala [LM Studio](https://lmstudio.ai/) u [Ollama](https://ollama.com/), descarga un modelo (7B+ parámetros recomendado) y conéctalo a Skribane. La calidad depende de tu hardware, pero es completamente gratuito.
 
-### My Word document imports as a single chapter
+### ¿La IA va a escribir mi novela por mí?
 
-This happens when the document doesn't have headings with Word styles (Heading 1, Heading 2). Skribane tries to detect patterns like "Chapter 1: Title", but if it can't find them, it imports everything as one scene. Solutions:
+No. Skribane usa la IA como copiloto: te ayuda a generar borradores, mejorar texto, mantener la coherencia y superar bloqueos creativos. Tú tomas todas las decisiones creativas. Cada sugerencia de la IA se muestra en un panel de previsualización donde decides si aceptar, descartar o regenerar.
 
-1. Use the **Reorganize with AI** button to have the AI detect the narrative structure.
-2. Use the editable preview to split content manually.
-3. Add headings in Word before importing (H1 = chapters, H2 = scenes).
+### ¿Qué modelo debo elegir?
 
-## Installation
+Depende de tu presupuesto y prioridades:
 
-### Windows SmartScreen blocks the installer
+- **GPT-4o** o **Gemini 2.5 Pro** — Mejor calidad, más caro.
+- **GPT-4o mini** o **Gemini 2.5 Flash** — Buen equilibrio calidad/precio para uso diario.
+- **Claude Sonnet 4** — Excelente para texto largo y coherente.
+- **Claude Haiku 4.5** — Rápido y económico.
 
-This happens because the installer doesn't have a code signature. Click "More info" and then "Run anyway." Your data is completely safe — Skribane is a local desktop application that doesn't access any data outside its own folder.
+Si no sabes por dónde empezar, GPT-4o mini o Gemini 2.5 Flash son buenas opciones iniciales con bajo coste.
 
-### Where is my data stored?
+### La IA genera texto que no respeta el POV o el tiempo verbal
 
-In your operating system's application data folder:
+Asegúrate de tener configurados el POV y el tiempo verbal en Opciones. Skribane inyecta estas instrucciones en el prompt, pero algunos modelos (especialmente los locales pequeños) pueden ignorarlas. Los modelos cloud (GPT-4o, Gemini 2.5, Claude Sonnet) las siguen bien.
 
-- **Windows:** `C:\Users\YourUsername\AppData\Roaming\com.skribane.app\`
+### La IA no conoce mis personajes
 
-This folder contains the database (`skribane.db`) and the API keys file. It's not included in normal uninstallation, so your data survives a reinstall.
+Asegúrate de que tus personajes están en el Codex con nombres y descripciones completas. La IA selecciona automáticamente las entradas más relevantes para cada escena. Si un personaje importante no aparece en el contexto, puedes asignarlo manualmente a la escena desde la cabecera del editor (personajes por escena), o marcarlo como "Incluir siempre en IA" en su entrada del Codex.
 
-### How do I update Skribane?
+## Importación
 
-Skribane automatically checks for updates at startup. If one is available, you'll see a yellow dot on the "Skribane v1.0.0" button in the sidebar. Click it to open the "About" panel where you can download and install the update.
+### Mi documento Word se importa como un solo capítulo
 
-It's recommended to create a backup before updating.
+Esto ocurre cuando el documento no tiene encabezados con estilos de Word (Título 1, Título 2). Skribane intenta detectar patrones como "Capítulo 1: Título", pero si no los encuentra, importa todo como una sola escena. Soluciones:
+
+1. Usa el botón **Reorganizar con IA** para que la IA detecte la estructura narrativa.
+2. Usa la previsualización editable para dividir el contenido manualmente.
+3. Añade encabezados en Word antes de importar (H1 = capítulos, H2 = escenas).
+
+## Instalación
+
+### Windows SmartScreen bloquea el instalador
+
+Esto ocurre porque el instalador aún no tiene firma de código. Haz clic en "Más información" y luego en "Ejecutar de todas formas". Tus datos están completamente seguros — Skribane es una aplicación de escritorio local que no accede a datos fuera de su propia carpeta.
+
+### ¿Dónde se guardan mis datos?
+
+En la carpeta de datos de la aplicación de tu sistema operativo:
+
+- **Windows:** `C:\Users\TuUsuario\AppData\Roaming\com.skribane.app\`
+
+Esta carpeta contiene la base de datos (`skribane.db`) y el archivo de API keys. No se incluye en la desinstalación normal, por lo que tus datos sobreviven a una reinstalación.
+
+### ¿Cómo actualizo Skribane?
+
+Skribane comprueba automáticamente si hay actualizaciones al arrancar. Si hay una disponible, verás un punto amarillo en el botón "Skribane v1.0.0" en la barra lateral. Haz clic para abrir el panel "Acerca de" donde puedes descargar e instalar la actualización.
+
+Se recomienda crear una copia de seguridad antes de actualizar.

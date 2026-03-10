@@ -55,6 +55,7 @@ export default defineConfig({
           {
             text: 'Ayuda',
             items: [
+              { text: 'Licencia y activación', link: '/licensing' },
               { text: 'Preguntas frecuentes', link: '/faq' },
             ],
           },
@@ -110,6 +111,7 @@ export default defineConfig({
           {
             text: 'Help',
             items: [
+              { text: 'License & Activation', link: '/en/licensing' },
               { text: 'FAQ', link: '/en/faq' },
             ],
           },

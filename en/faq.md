@@ -18,6 +18,28 @@ You can write your novel in any language. Skribane's interface is available in S
 
 Yes. You can create as many projects (novels) as you want. Each project has its own Codex, structure, statistics, and AI configuration. Switch between projects from the "Projects" section in the sidebar.
 
+## License and trial
+
+### How long is the free trial?
+
+21 days, with all features unlocked. You don't need to sign up or enter payment details.
+
+### What happens when the trial ends?
+
+An activation screen appears. You need a license key to continue using Skribane. Your data is never deleted and you can always export your manuscript, even without a license. More details at [License and activation](/en/licensing).
+
+### Is the license perpetual?
+
+Yes. You pay €59 once and use Skribane forever, including all future updates. No renewals, no subscription.
+
+### How many computers can I use my license on?
+
+Up to 2 computers simultaneously. If you need to switch computers, deactivate the license on the old one and activate it on the new one. More details at [License and activation](/en/licensing).
+
+### I lost my license key
+
+Your license key was sent by email after purchase. Look for an email from Lemon Squeezy. If you can't find it, write to contacto@skribane.com with your purchase details.
+
 ## Artificial Intelligence
 
 ### How much does AI usage cost?
