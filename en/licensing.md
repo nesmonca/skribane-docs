@@ -22,13 +22,31 @@ While you're on the trial, you'll see a badge in the top bar showing the remaini
 
 ## Buy a license
 
-The Skribane license is **perpetual and one-time payment (€59)**. It includes all future updates — new features, bug fixes and security improvements. No renewals, no subscription.
+The Skribane license is **perpetual and one-time payment (€59)**. It includes **1 year of updates** from the date of purchase: new features, bug fixes and security improvements.
 
 To buy:
 
 1. Visit [www.skribane.com](https://www.skribane.com) and click **Buy license**.
 2. Complete the payment. Payments are handled through Lemon Squeezy, which acts as the merchant of record and handles global taxes and invoicing.
 3. You'll receive a **license key** by email (format: `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`).
+
+## Updates and renewal
+
+Your purchase includes **1 year of updates** from the date of purchase. During that year you'll receive all updates at no additional cost.
+
+### After the first year
+
+You can renew access to updates for **€19.99/year**. Renewal is optional — if you don't renew:
+
+- The app **keeps working forever** with the last version you received.
+- You **don't lose access to your data** or any functionality in that version.
+- AI features will remain operational as long as the external providers (OpenAI, Gemini, Anthropic) maintain compatibility with their APIs.
+
+### How to renew
+
+1. Purchase the "Skribane — Update Renewal" at [www.skribane.com](https://www.skribane.com).
+2. You'll receive a new license key by email.
+3. Activate it in Skribane (from Config → License). Your year of updates resets from the date of the new purchase.
 
 ## Activate the license
 
@@ -80,7 +98,11 @@ Skribane validates the license online when you first activate it. After that, it
 
 ### Is the license forever?
 
-Yes. It's a perpetual license. You pay once and use Skribane forever, including all future updates.
+Yes. It's a perpetual license. You pay once and use Skribane forever. Your purchase includes 1 year of updates, and after that you can optionally renew for €19.99/year.
+
+### What happens if I don't renew updates?
+
+Nothing bad. The app keeps working indefinitely with the last version you received. You simply won't receive new versions until you renew.
 
 ### Can I get a refund?
 

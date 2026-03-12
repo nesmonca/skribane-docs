@@ -22,13 +22,31 @@ Mientras estás en período de prueba, verás un badge en la barra superior indi
 
 ## Comprar una licencia
 
-La licencia de Skribane es **perpetua y de pago único (59€)**. Incluye todas las actualizaciones futuras — nuevas funcionalidades, correcciones de errores y mejoras de seguridad. Sin renovaciones, sin suscripción.
+La licencia de Skribane es **perpetua y de pago único (59€)**. Incluye **1 año de actualizaciones** desde la fecha de compra: nuevas funcionalidades, correcciones de errores y mejoras de seguridad.
 
 Para comprar:
 
 1. Visita [www.skribane.com](https://www.skribane.com) y haz clic en **Comprar licencia**.
 2. Completa el pago. Los pagos se gestionan a través de Lemon Squeezy, que actúa como intermediario comercial (merchant of record) y se encarga de impuestos y facturación global.
 3. Recibirás una **license key** por email (formato: `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`).
+
+## Actualizaciones y renovación
+
+Tu compra incluye **1 año de actualizaciones** desde la fecha de compra. Durante ese año recibirás todas las actualizaciones sin coste adicional.
+
+### Después del primer año
+
+Puedes renovar el acceso a actualizaciones por **19,99 €/año**. La renovación es opcional — si no renuevas:
+
+- La app **sigue funcionando para siempre** con la última versión que hayas recibido.
+- **No pierdes acceso a tus datos** ni a ninguna funcionalidad de esa versión.
+- Las funciones de IA seguirán operativas mientras los proveedores externos (OpenAI, Gemini, Anthropic) mantengan la compatibilidad con sus APIs.
+
+### ¿Cómo se renueva?
+
+1. Compra la renovación "Skribane — Update Renewal" en [www.skribane.com](https://www.skribane.com).
+2. Recibirás una nueva license key por email.
+3. Actívala en Skribane (desde Config → Licencia). Tu año de actualizaciones se reinicia desde la fecha de la nueva compra.
 
 ## Activar la licencia
 
@@ -80,7 +98,11 @@ Skribane valida la licencia online al activarla por primera vez. Después, funci
 
 ### ¿La licencia es para siempre?
 
-Sí. Es una licencia perpetua. Pagas una vez y usas Skribane para siempre, incluyendo todas las actualizaciones futuras.
+Sí. Es una licencia perpetua. Pagas una vez y usas Skribane para siempre. La compra incluye 1 año de actualizaciones, y después puedes renovar opcionalmente por 19,99 €/año.
+
+### ¿Qué pasa si no renuevo las actualizaciones?
+
+Nada malo. La app sigue funcionando indefinidamente con la última versión que recibiste. Simplemente no recibirás nuevas versiones hasta que renueves.
 
 ### ¿Puedo pedir un reembolso?
 
