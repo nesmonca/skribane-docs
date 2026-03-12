@@ -1,103 +1,103 @@
-# The Codex
+# El Codex
 
-The Codex is your narrative universe bible. Here you define everything that exists in your story: characters, locations, objects, factions, power systems, and timeline. The AI automatically consults the Codex when generating or improving text, allowing it to maintain coherence with your universe.
+El Codex es la biblia de tu universo narrativo. Aquí defines todo lo que existe en tu historia: personajes, lugares, objetos, facciones, sistemas de poder y cronología. La IA consulta automáticamente el Codex cuando genera o mejora texto, lo que le permite mantener la coherencia con tu universo.
 
-## Entry Types
+## Tipos de entrada
 
-Skribane organizes the Codex into six categories:
+Skribane organiza el Codex en seis categorías:
 
-- **Characters** — The beings in your story (protagonists, antagonists, supporting characters).
-- **Locations** — Cities, buildings, regions, planets, dimensions.
-- **Objects** — Weapons, artifacts, vehicles, important documents.
-- **Factions** — Organizations, governments, clans, families, guilds.
-- **Systems** — Magic systems, technologies, universe laws.
-- **Timeline** — Historical events, eras, key moments from the past.
+- **Personajes** — Los seres de tu historia (protagonistas, antagonistas, secundarios).
+- **Lugares** — Ciudades, edificios, regiones, planetas, dimensiones.
+- **Objetos** — Armas, artefactos, vehículos, documentos importantes.
+- **Facciones** — Organizaciones, gobiernos, clanes, familias, gremios.
+- **Sistemas** — Sistemas de magia, tecnologías, leyes del universo.
+- **Cronología** — Eventos históricos, eras, momentos clave del pasado.
 
-You can access each category from the **Universe** section in the left sidebar, which shows the entry count per type.
+Puedes acceder a cada categoría desde la sección **Universo** en la barra lateral izquierda, que muestra el número de entradas por tipo.
 
-## Creating an Entry
+## Crear una entrada
 
-You have two ways to create entries:
+Tienes dos formas de crear entradas:
 
-1. **From the sidebar** — Click a Universe category (e.g., Characters) and type the name in the list field.
-2. **"+ New entry" button** — The green button at the top of the sidebar, or the `Ctrl+N` shortcut, opens a type selector.
+1. **Desde la barra lateral** — Haz clic en una categoría del Universo (ej: Personajes) y escribe el nombre en el campo de la lista.
+2. **Botón "+ Nueva entrada"** — El botón verde en la parte superior de la barra lateral, o el atajo `Ctrl+N`, abre un selector de tipo.
 
-## Detail View
+## Vista de detalle
 
-When selecting an entry from the list, the detail panel opens with:
+Al seleccionar una entrada de la lista, se abre el panel de detalle con:
 
-- **Name** — Directly editable.
-- **Description** — Free text to describe the entry. This field is the one the AI uses most when building context.
-- **Aliases / Nicknames** — Alternative names for the entry (see section below).
-- **Notes** — Private text for your author notes. Also included in AI context.
-- **Custom fields** — Key-value pairs for structured information.
-- **Tags** — Colored labels for organizing and filtering.
-- **Relations** — Connections with other Codex entries.
-- **Progressions** — How the entry evolves throughout the story.
+- **Nombre** — Editable directamente.
+- **Descripción** — Texto libre para describir la entrada. Este campo es el que más usa la IA al construir el contexto.
+- **Aliases / Apodos** — Nombres alternativos para la entrada (ver sección más abajo).
+- **Notas** — Texto privado para tus notas de autor. También se incluye en el contexto de la IA.
+- **Campos personalizados** — Pares clave-valor para información estructurada.
+- **Tags** — Etiquetas de colores para organizar y filtrar.
+- **Relaciones** — Conexiones con otras entradas del Codex.
+- **Progresiones** — Cómo evoluciona la entrada a lo largo de la historia.
 
-Everything saves automatically as you type (every half second).
+Todo se guarda automáticamente mientras escribes (cada medio segundo).
 
-## Aliases / Nicknames
+## Aliases / Apodos
 
-A character can have multiple names: a real name, a nickname, a title, an alias. For example, a character named "Mizu" might have the aliases "The Captain" and "Water Shadow."
+Un personaje puede tener varios nombres: un nombre real, un apodo, un título, un alias. Por ejemplo, un personaje llamado "Mizu" podría tener los aliases "El Capitán" y "Sombra de Agua".
 
-To add an alias, type in the aliases field and press Enter. Aliases appear as chips you can remove with ×.
+Para añadir un alias, escribe en el campo de aliases y pulsa Enter. Los aliases aparecen como chips que puedes eliminar con ×.
 
-Aliases are important because:
+Los aliases son importantes porque:
 
-- The AI recognizes them when searching for relevant entries for a scene (if you write "The Captain" in your text, the AI will connect that name to Mizu).
-- They're included in the context sent to the AI as "also known as..."
-- Character detection uses them to avoid duplicates.
+- La IA los reconoce al buscar entradas relevantes para una escena (si escribes "El Capitán" en tu texto, la IA conectará ese nombre con Mizu).
+- Se incluyen en el contexto que se envía a la IA como "también conocido como..."
+- La detección de personajes los usa para evitar duplicados.
 
-## Custom Fields
+## Campos personalizados
 
-Custom fields let you add structured information to each entry. When creating a new entry, Skribane preloads suggested fields based on the type:
+Los campos personalizados te permiten añadir información estructurada a cada entrada. Al crear una entrada nueva, Skribane precarga campos sugeridos según el tipo:
 
-- **Characters** — Age, Role, Motivation, Appearance, Personality.
-- **Locations** — Location, Sensory description, Importance, Population.
-- **Objects** — Owner, Power/Function, Origin, Current status.
-- **Factions** — Leader, Goal, Territory, Notable members.
-- **Systems** — Power source, Rules, Limitations, Users.
-- **Timeline** — Period, Key events, Consequences.
+- **Personajes** — Edad, Rol, Motivación, Apariencia, Personalidad.
+- **Lugares** — Ubicación, Descripción sensorial, Importancia, Población.
+- **Objetos** — Propietario, Poder/Función, Origen, Estado actual.
+- **Facciones** — Líder, Objetivo, Territorio, Miembros notables.
+- **Sistemas** — Fuente de poder, Reglas, Limitaciones, Usuarios.
+- **Cronología** — Período, Eventos clave, Consecuencias.
 
-You can add, rename, or delete fields as you wish. You can also click the AI icon next to an empty field to have the AI fill it automatically based on the rest of the entry's information and the Codex.
+Puedes añadir, renombrar o eliminar campos como quieras. También puedes hacer clic en el icono de IA junto a un campo vacío para que la IA lo rellene automáticamente basándose en la información del resto de la entrada y del Codex.
 
 ## Tags
 
-Tags are colored labels that help you organize and filter entries. For example, you could create tags like "Protagonist", "Northern Alliance", "Arc 2", or "Needs development."
+Los tags son etiquetas de colores que te ayudan a organizar y filtrar entradas. Por ejemplo, puedes crear tags como "Protagonista", "Alianza del Norte", "Arco 2" o "Necesita desarrollo".
 
-To create a tag, type in the tags field and press Enter. You can choose a color and the tag is created globally for the entire project. You can then assign it to any entry.
+Para crear un tag, escribe en el campo de tags y pulsa Enter. Puedes elegir un color y el tag se crea de forma global para todo el proyecto. Después puedes asignarlo a cualquier entrada.
 
-To edit a tag (name or color) or delete it from the project, click on it to open the editing popover.
+Para editar un tag (nombre o color) o eliminarlo del proyecto, haz clic en él para abrir el popover de edición.
 
-## Relations
+## Relaciones
 
-Relations connect entries to each other bidirectionally. For example:
+Las relaciones conectan entradas entre sí de forma bidireccional. Por ejemplo:
 
-- Mizu *is an enemy of* Kael
-- The Northern Fortress *belongs to* The Alliance
-- The Runic Sword *was created by* Arthan
+- Mizu *es enemigo de* Kael
+- La Fortaleza del Norte *pertenece a* La Alianza
+- La Espada Rúnica *fue creada por* Arthan
 
-To create a relation, open an entry's detail panel, go to the relations section, select the related entry from the dropdown, and type the relation type. The relation automatically appears in both entries.
+Para crear una relación, abre el panel de detalle de una entrada, ve a la sección de relaciones, selecciona la entrada relacionada en el desplegable y escribe el tipo de relación. La relación aparece automáticamente en ambas entradas.
 
-## Progressions
+## Progresiones
 
-Progressions capture how an entry evolves throughout the story. A character might start as a farmer and end as a king. A location might be destroyed in act 2. A power system might change its rules.
+Las progresiones capturan cómo evoluciona una entrada a lo largo de la historia. Un personaje puede empezar como granjero y terminar como rey. Un lugar puede ser destruido en el acto 2. Un sistema de poder puede cambiar sus reglas.
 
-Each progression has a title (e.g., "Act 1", "After the battle") and descriptive text. You can associate progressions with specific points in the novel.
+Cada progresión tiene un título (ej: "Acto 1", "Tras la batalla") y un texto descriptivo. Puedes asociar las progresiones a puntos específicos de la novela.
 
-The AI uses the active progression (the most relevant one for the scene you're writing) when generating context.
+La IA usa la progresión activa (la más relevante para la escena que estás escribiendo) al generar contexto.
 
-## Exclude from AI Context
+## Excluir del contexto de IA
 
-If you have Codex entries you don't want the AI to consider (discarded drafts, future ideas, sensitive material), you can mark them with the "Always include in AI" option disabled. The AI will ignore them when building context.
+Si tienes entradas del Codex que no quieres que la IA considere (borradores descartados, ideas futuras, material sensible), puedes marcarlas con la opción "Incluir siempre en IA" desactivada. La IA las ignorará al construir el contexto.
 
-## Search Entries
+## Buscar entradas
 
-The search bar at the top of the Codex list filters entries by name in real time.
+La barra de búsqueda en la parte superior de la lista del Codex filtra entradas por nombre en tiempo real.
 
-## Detect Characters with AI
+## Detectar personajes con IA
 
-If you already have written text, you can use the **Detect characters** function (in the AI tab of the right panel) to have the AI analyze your manuscript and detect characters not yet in the Codex. Detection can be done by scene, chapter, or entire manuscript.
+Si ya tienes texto escrito, puedes usar la función **Detectar personajes** (en la pestaña IA del panel derecho) para que la IA analice tu manuscrito y detecte personajes que aún no están en el Codex. La detección se puede hacer por escena, capítulo o manuscrito completo.
 
-Detected characters are shown in a list where you can select which ones to create in the Codex with a single click.
+Los personajes detectados se muestran en una lista donde puedes seleccionar cuáles crear en el Codex con un solo clic.
