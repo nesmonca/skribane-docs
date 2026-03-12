@@ -30,7 +30,7 @@ An activation screen appears. You need a license key to continue using Skribane.
 
 ### Is the license perpetual?
 
-Yes. You pay €59 once and use Skribane forever, including all future updates. No renewals, no subscription.
+Yes. You pay €59 once and use Skribane forever. Your purchase includes 1 year of updates (new features, bug fixes, security). After that, you can optionally renew for €19.99/year. If you don't renew, the app keeps working indefinitely with the last version you received.
 
 ### How many computers can I use my license on?
 
