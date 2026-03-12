@@ -1,53 +1,53 @@
-# Backup and Restore
+# Backup y restauración
 
-Skribane lets you create complete backups of your data and restore them when needed. Your novels are valuable — back up regularly.
+Skribane te permite crear copias de seguridad completas de tus datos y restaurarlas cuando lo necesites. Tus novelas son valiosas — haz copias de seguridad con regularidad.
 
-## Accessing
+## Acceso
 
-Click **Config** in the sidebar and scroll down to the **Backups** section.
+Haz clic en **Config** en la barra lateral y baja hasta la sección **Copias de seguridad**.
 
-## Create a Backup
+## Crear una copia de seguridad
 
-Click **Create backup**. A native dialog opens to choose where to save the file. The suggested name includes the date and time.
+Haz clic en **Crear backup**. Se abrirá un diálogo nativo para elegir dónde guardar el archivo. El nombre sugerido incluye la fecha y la hora.
 
-The backup is a .zip file containing:
+La copia de seguridad es un archivo .zip que contiene:
 
-- **Complete database** — All your projects, acts, chapters, scenes, content, Codex, statistics, AI configuration.
-- **API keys** — Your AI provider keys (stored securely).
-- **Metadata** — App version, creation date, indicator of whether keys are included.
+- **Base de datos completa** — Todos tus proyectos, actos, capítulos, escenas, contenido, Codex, estadísticas, configuración de IA.
+- **API keys** — Las claves de tus proveedores de IA (almacenadas de forma segura).
+- **Metadatos** — Versión de la app, fecha de creación, indicador de si se incluyen las keys.
 
-When finished, the created file size is displayed.
+Al finalizar, se muestra el tamaño del archivo creado.
 
-## Restore a Backup
+## Restaurar una copia de seguridad
 
-Click **Restore backup** and select a backup .zip file.
+Haz clic en **Restaurar backup** y selecciona un archivo .zip de backup.
 
-Before restoring, Skribane shows a backup preview:
+Antes de restaurar, Skribane muestra una previsualización del backup:
 
-- Creation date.
-- File size.
-- Number of projects it contains.
-- Whether it includes API keys.
+- Fecha de creación.
+- Tamaño del archivo.
+- Número de proyectos que contiene.
+- Si incluye API keys.
 
-::: warning Destructive Action
-Restoring a backup replaces **all** your current data (projects, Codex, configuration). This action cannot be undone. You'll be asked for confirmation before proceeding.
+::: warning Acción destructiva
+Restaurar un backup reemplaza **todos** tus datos actuales (proyectos, Codex, configuración). Esta acción no se puede deshacer. Se te pedirá confirmación antes de continuar.
 :::
 
-Skribane automatically creates a safety copy of your current data (`.pre-restore` files) before restoring, in case something goes wrong.
+Skribane crea automáticamente una copia de seguridad de tus datos actuales (archivos `.pre-restore`) antes de restaurar, por si algo sale mal.
 
-## Integrity Validation
+## Validación de integridad
 
-When restoring, Skribane automatically verifies:
+Al restaurar, Skribane verifica automáticamente:
 
-- That the file is a valid Skribane backup (contains correct metadata).
-- That the database is not corrupt (`PRAGMA integrity_check`).
-- That the main tables exist.
+- Que el archivo es un backup válido de Skribane (contiene los metadatos correctos).
+- Que la base de datos no está corrupta (`PRAGMA integrity_check`).
+- Que existen las tablas principales.
 
-If any verification fails, the restore is cancelled and your current data remains intact.
+Si alguna verificación falla, la restauración se cancela y tus datos actuales permanecen intactos.
 
-## Recommendations
+## Recomendaciones
 
-- Create a backup before updating Skribane to a new version.
-- Back up regularly (at least once a week if you're actively writing).
-- Store backups in a different location than your computer (external drive, cloud, etc.).
-- The backup does not include editor preferences (font, size) or the light/dark theme, which are stored separately.
+- Crea una copia de seguridad antes de actualizar Skribane a una nueva versión.
+- Haz backup con regularidad (al menos una vez por semana si estás escribiendo activamente).
+- Guarda los backups en un lugar diferente a tu ordenador (disco externo, nube, etc.).
+- El backup no incluye las preferencias del editor (fuente, tamaño) ni el tema claro/oscuro, que se almacenan por separado.
