@@ -10,6 +10,10 @@ export default defineConfig({
 
   cleanUrls: true,
 
+  sitemap: {
+    hostname: 'https://docs.skribane.com',
+  },
+
   locales: {
     root: {
       label: 'Español',
