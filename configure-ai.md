@@ -12,22 +12,22 @@ Skribane soporta tres proveedores de IA, cada uno con sus propias ventajas:
 
 ### OpenAI
 
-- **Modelos:** GPT-4o (premium), GPT-4o mini (rápido y económico)
+- **Modelos:** GPT-4.1 (premium), GPT-4.1 mini (equilibrado), GPT-4.1 nano (rápido y económico)
 - **Ventana de contexto:** 128K tokens
 - **Obtener API key:** [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 - **Formato de la key:** Empieza por `sk-`
 
 ### Google Gemini
 
-- **Modelos:** Gemini 2.5 Flash (rápido), Gemini 2.5 Pro (premium)
+- **Modelos:** Gemini 2.5 Pro (premium), Gemini 2.5 Flash (rápido), Gemini 2.5 Flash Lite (económico)
 - **Ventana de contexto:** Hasta 1M tokens
 - **Obtener API key:** [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
 - **Formato de la key:** Empieza por `AIza`
 
 ### Anthropic Claude
 
-- **Modelos:** Sonnet 4 (equilibrado), Haiku 4.5 (rápido y económico)
-- **Ventana de contexto:** 200K tokens
+- **Modelos:** Sonnet 4.6 (equilibrado, 1M de contexto), Haiku 4.5 (rápido y económico, 200K de contexto)
+- **Ventana de contexto:** Hasta 1M tokens
 - **Obtener API key:** [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
 - **Formato de la key:** Empieza por `sk-ant-`
 
@@ -53,7 +53,7 @@ La calidad de los modelos locales depende de la potencia de tu equipo. Para nove
 
 ## Selección de modelo
 
-Puedes elegir entre los modelos curados (2 por proveedor) o escribir un **model ID personalizado** para usar cualquier modelo nuevo que el proveedor ofrezca, sin esperar a una actualización de Skribane.
+Puedes elegir entre los modelos curados (hasta 3 por proveedor) o escribir un **model ID personalizado** para usar cualquier modelo nuevo que el proveedor ofrezca, sin esperar a una actualización de Skribane.
 
 La información de cada modelo muestra: ventana de contexto y coste aproximado por 1K tokens (entrada y salida).
 
@@ -92,4 +92,4 @@ En **Opciones** (barra lateral) puedes configurar un perfil de estilo que la IA 
 - **Referencia** — Nombre de un autor cuyo estilo admires como guía.
 - **Instrucciones libres** — Cualquier indicación adicional para la IA.
 
-También puedes analizar un documento .docx de referencia con la función "Analizar .docx" para que la IA extraiga automáticamente el perfil de estilo.
+También puedes analizar un documento .docx de referencia con la función "Analizar .docx" para que la IA extraiga automáticamente el perfil de estilo. Lo ideal es un fragmento de **3 a 5 páginas** de prosa narrativa que represente bien el estilo que quieres emular.

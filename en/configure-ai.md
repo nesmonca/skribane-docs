@@ -12,22 +12,22 @@ Skribane supports three AI providers, each with its own strengths:
 
 ### OpenAI
 
-- **Models:** GPT-4o (premium), GPT-4o mini (fast and affordable)
+- **Models:** GPT-4.1 (premium), GPT-4.1 mini (balanced), GPT-4.1 nano (fast and affordable)
 - **Context window:** 128K tokens
 - **Get API key:** [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 - **Key format:** Starts with `sk-`
 
 ### Google Gemini
 
-- **Models:** Gemini 2.5 Flash (fast), Gemini 2.5 Pro (premium)
+- **Models:** Gemini 2.5 Pro (premium), Gemini 2.5 Flash (fast), Gemini 2.5 Flash Lite (affordable)
 - **Context window:** Up to 1M tokens
 - **Get API key:** [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
 - **Key format:** Starts with `AIza`
 
 ### Anthropic Claude
 
-- **Models:** Sonnet 4 (balanced), Haiku 4.5 (fast and affordable)
-- **Context window:** 200K tokens
+- **Models:** Sonnet 4.6 (balanced, 1M context), Haiku 4.5 (fast and affordable, 200K context)
+- **Context window:** Up to 1M tokens
 - **Get API key:** [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
 - **Key format:** Starts with `sk-ant-`
 
@@ -53,7 +53,7 @@ The quality of local models depends on your computer's power. For novels, a mode
 
 ## Model Selection
 
-You can choose from curated models (2 per provider) or enter a **custom model ID** to use any new model the provider offers, without waiting for a Skribane update.
+You can choose from curated models (up to 3 per provider) or enter a **custom model ID** to use any new model the provider offers, without waiting for a Skribane update.
 
 Each model's information shows: context window and approximate cost per 1K tokens (input and output).
 
@@ -92,4 +92,4 @@ In **Options** (sidebar) you can configure a style profile that the AI will use 
 - **Reference** — Name of an author whose style you admire as a guide.
 - **Free instructions** — Any additional direction for the AI.
 
-You can also analyze a reference .docx document with the "Analyze .docx" function to have the AI automatically extract the style profile.
+You can also analyze a reference .docx document with the "Analyze .docx" function to have the AI automatically extract the style profile. A fragment of **3 to 5 pages** of narrative prose that represents the style you want to emulate works best.
