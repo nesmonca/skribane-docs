@@ -1,6 +1,6 @@
 # Licencia y activación
 
-Skribane incluye una prueba gratuita de 21 días con todas las funcionalidades desbloqueadas. Cuando termina el período de prueba, necesitas una licencia para seguir usando la aplicación.
+Skribane incluye una prueba gratuita de 21 días con todas las funcionalidades desbloqueadas. Cuando termina el período de prueba, necesitas una suscripción activa para seguir usando la aplicación.
 
 ## Prueba gratuita (trial)
 
@@ -20,33 +20,29 @@ Tus datos **nunca se borran** cuando expira el trial. Tu novela, tu Codex y toda
 
 Mientras estás en período de prueba, verás un badge en la barra superior indicando los días restantes (ej: "Prueba · 15 días restantes"). Cuando quedan 3 días o menos, el badge se vuelve rojo para avisarte.
 
-## Comprar una licencia
+## Suscribirse a Skribane
 
-La licencia de Skribane es **perpetua y de pago único (59€)**. Incluye **1 año de actualizaciones** desde la fecha de compra: nuevas funcionalidades, correcciones de errores y mejoras de seguridad.
+Skribane funciona con un modelo de **suscripción**: **11,99 €/mes** o **9,99 €/mes** con el plan anual (119,88 €/año). Mientras tu suscripción esté activa, recibes todas las actualizaciones: nuevas funcionalidades, correcciones de errores y mejoras de seguridad.
 
-Para comprar:
+Para suscribirte:
 
-1. Visita [www.skribane.com](https://www.skribane.com) y haz clic en **Comprar licencia**.
-2. Completa el pago. Los pagos se gestionan a través de Lemon Squeezy, que actúa como intermediario comercial (merchant of record) y se encarga de impuestos y facturación global.
+1. Visita [www.skribane.com](https://www.skribane.com) y haz clic en **Suscribirse**.
+2. Elige tu plan (mensual o anual) y completa el pago. Los pagos se gestionan a través de Lemon Squeezy, que actúa como intermediario comercial (merchant of record) y se encarga de impuestos y facturación global.
 3. Recibirás una **license key** por email (formato: `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`).
 
-## Actualizaciones y renovación
+## Actualizaciones
 
-Tu compra incluye **1 año de actualizaciones** desde la fecha de compra. Durante ese año recibirás todas las actualizaciones sin coste adicional.
+Mientras tu suscripción esté activa, recibes **todas las actualizaciones** sin coste adicional.
 
-### Después del primer año
+### ¿Qué pasa si cancelo mi suscripción?
 
-Puedes renovar el acceso a actualizaciones por **19,99 €/año**. La renovación es opcional — si no renuevas:
+Al cancelar, tienes acceso hasta el final del período pagado. Después se muestra una pantalla de bloqueo, pero:
 
-- La app **sigue funcionando para siempre** con la última versión que hayas recibido.
-- **No pierdes acceso a tus datos** ni a ninguna funcionalidad de esa versión.
-- Las funciones de IA seguirán operativas mientras los proveedores externos (OpenAI, Gemini, Anthropic) mantengan la compatibilidad con sus APIs.
+- **Siempre puedes exportar tu manuscrito** (DOCX o PDF) desde la pantalla de bloqueo.
+- **Tus datos nunca se borran.** Tu novela, tu Codex y toda tu configuración permanecen intactos.
+- Las funciones de IA dejan de estar disponibles mientras la suscripción esté inactiva.
 
-### ¿Cómo se renueva?
-
-1. Compra la renovación "Skribane — Update Renewal" en [www.skribane.com](https://www.skribane.com).
-2. Recibirás una nueva license key por email.
-3. Actívala en Skribane (desde Config → Licencia). Tu año de actualizaciones se reinicia desde la fecha de la nueva compra.
+Para volver a usar Skribane, simplemente reactiva tu suscripción desde [www.skribane.com](https://www.skribane.com).
 
 ## Activar la licencia
 
@@ -96,13 +92,13 @@ Skribane valida la licencia online al activarla por primera vez. Después, funci
 
 ## Preguntas frecuentes sobre licencias
 
-### ¿La licencia es para siempre?
+### ¿Cómo funciona la suscripción?
 
-Sí. Es una licencia perpetua. Pagas una vez y usas Skribane para siempre. La compra incluye 1 año de actualizaciones, y después puedes renovar opcionalmente por 19,99 €/año.
+Skribane funciona con suscripción: 11,99 €/mes o 9,99 €/mes con el plan anual (119,88 €/año). Mientras tu suscripción esté activa, recibes todas las actualizaciones.
 
-### ¿Qué pasa si no renuevo las actualizaciones?
+### ¿Qué pasa si cancelo mi suscripción?
 
-Nada malo. La app sigue funcionando indefinidamente con la última versión que recibiste. Simplemente no recibirás nuevas versiones hasta que renueves.
+Tienes acceso hasta el final del período pagado. Después se muestra una pantalla de bloqueo. Siempre puedes exportar tu manuscrito y tus datos nunca se borran.
 
 ### ¿Puedo pedir un reembolso?
 

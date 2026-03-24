@@ -26,11 +26,15 @@ Sí. Puedes crear tantos proyectos (novelas) como quieras. Cada proyecto tiene s
 
 ### ¿Qué pasa cuando termina el trial?
 
-Se muestra una pantalla de activación. Necesitas una license key para seguir usando Skribane. Tus datos nunca se borran y siempre puedes exportar tu manuscrito, incluso sin licencia. Más detalles en [Licencia y activación](/licensing).
+Se muestra una pantalla de activación. Necesitas una suscripción activa para seguir usando Skribane. Tus datos nunca se borran y siempre puedes exportar tu manuscrito, incluso sin suscripción. Más detalles en [Licencia y activación](/licensing).
 
-### ¿La licencia es perpetua?
+### ¿Cómo funciona la suscripción?
 
-Sí. Pagas 59€ una sola vez y usas Skribane para siempre. La compra incluye 1 año de actualizaciones (nuevas funcionalidades, correcciones, seguridad). Después puedes renovar opcionalmente por 19,99 €/año. Si no renuevas, la app sigue funcionando indefinidamente con la última versión recibida.
+Skribane funciona con suscripción: **11,99 €/mes** o **9,99 €/mes** con el plan anual (119,88 €/año). Mientras tu suscripción esté activa, recibes todas las actualizaciones (nuevas funcionalidades, correcciones, seguridad).
+
+### ¿Qué pasa si cancelo mi suscripción?
+
+Tienes acceso hasta el final del período pagado. Después se muestra una pantalla de bloqueo. Siempre puedes exportar tu manuscrito y tus datos nunca se borran.
 
 ### ¿En cuántos equipos puedo usar mi licencia?
 

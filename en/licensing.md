@@ -1,6 +1,6 @@
 # License and activation
 
-Skribane includes a free 21-day trial with all features unlocked. When the trial period ends, you need a license to continue using the application.
+Skribane includes a free 21-day trial with all features unlocked. When the trial period ends, you need an active subscription to continue using the application.
 
 ## Free trial
 
@@ -20,33 +20,29 @@ Your data is **never deleted** when the trial expires. Your novel, your Codex an
 
 While you're on the trial, you'll see a badge in the top bar showing the remaining days (e.g., "Trial · 15 days left"). When 3 days or less remain, the badge turns red to warn you.
 
-## Buy a license
+## Subscribe to Skribane
 
-The Skribane license is **perpetual and one-time payment (€59)**. It includes **1 year of updates** from the date of purchase: new features, bug fixes and security improvements.
+Skribane works on a **subscription** model: **€11.99/month** or **€9.99/month** billed annually (€119.88/year). While your subscription is active, you receive all updates: new features, bug fixes and security improvements.
 
-To buy:
+To subscribe:
 
-1. Visit [www.skribane.com](https://www.skribane.com) and click **Buy license**.
-2. Complete the payment. Payments are handled through Lemon Squeezy, which acts as the merchant of record and handles global taxes and invoicing.
+1. Visit [www.skribane.com](https://www.skribane.com) and click **Subscribe**.
+2. Choose your plan (monthly or annual) and complete the payment. Payments are handled through Lemon Squeezy, which acts as the merchant of record and handles global taxes and invoicing.
 3. You'll receive a **license key** by email (format: `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`).
 
-## Updates and renewal
+## Updates
 
-Your purchase includes **1 year of updates** from the date of purchase. During that year you'll receive all updates at no additional cost.
+While your subscription is active, you receive **all updates** at no additional cost.
 
-### After the first year
+### What happens if I cancel my subscription?
 
-You can renew access to updates for **€19.99/year**. Renewal is optional — if you don't renew:
+When you cancel, you keep access until the end of your paid period. After that, a lock screen is displayed, but:
 
-- The app **keeps working forever** with the last version you received.
-- You **don't lose access to your data** or any functionality in that version.
-- AI features will remain operational as long as the external providers (OpenAI, Gemini, Anthropic) maintain compatibility with their APIs.
+- You can **always export your manuscript** (DOCX or PDF) from the lock screen.
+- **Your data is never deleted.** Your novel, your Codex and all your configuration remain intact.
+- AI features are unavailable while the subscription is inactive.
 
-### How to renew
-
-1. Purchase the "Skribane — Update Renewal" at [www.skribane.com](https://www.skribane.com).
-2. You'll receive a new license key by email.
-3. Activate it in Skribane (from Config → License). Your year of updates resets from the date of the new purchase.
+To use Skribane again, simply reactivate your subscription at [www.skribane.com](https://www.skribane.com).
 
 ## Activate the license
 
@@ -96,13 +92,13 @@ Skribane validates the license online when you first activate it. After that, it
 
 ## License FAQ
 
-### Is the license forever?
+### How does the subscription work?
 
-Yes. It's a perpetual license. You pay once and use Skribane forever. Your purchase includes 1 year of updates, and after that you can optionally renew for €19.99/year.
+Skribane works on a subscription: €11.99/month or €9.99/month billed annually (€119.88/year). While your subscription is active, you receive all updates.
 
-### What happens if I don't renew updates?
+### What happens if I cancel my subscription?
 
-Nothing bad. The app keeps working indefinitely with the last version you received. You simply won't receive new versions until you renew.
+You keep access until the end of your paid period. After that, a lock screen is displayed. You can always export your manuscript and your data is never deleted.
 
 ### Can I get a refund?
 
