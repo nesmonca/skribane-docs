@@ -80,4 +80,4 @@ You have the basics to get started. Explore the rest of the documentation to get
 - [The Codex](/en/codex) — Build your narrative universe.
 - [AI Assistance](/en/ai-assistance) — All the ways AI can help you.
 - [Configure AI](/en/configure-ai) — Providers, models, and advanced options.
-- [License & Activation](/en/licensing) — Trial, purchase, and multi-device activation.
+- [License & Download](/en/licensing) — Skribane is free, no trial or activation needed.

@@ -18,31 +18,15 @@ Puedes escribir tu novela en cualquier idioma. La interfaz de Skribane está dis
 
 Sí. Puedes crear tantos proyectos (novelas) como quieras. Cada proyecto tiene su propio Codex, estructura, estadísticas y configuración de IA. Cambia entre proyectos desde la sección "Proyectos" en la barra lateral.
 
-## Licencia y trial
+## Licencia y descarga
 
-### ¿Cuánto dura la prueba gratuita?
+### ¿Skribane es realmente gratis?
 
-21 días, con todas las funcionalidades desbloqueadas. No necesitas registrarte ni dar datos de pago.
+Sí, Skribane es completamente gratuita. Puedes descargarla y usar todas sus funcionalidades sin límites. Si quieres apoyar el desarrollo, puedes hacer una donación voluntaria.
 
-### ¿Qué pasa cuando termina el trial?
+### ¿Tengo que pagar por la IA?
 
-Se muestra una pantalla de activación. Necesitas una suscripción activa para seguir usando Skribane. Tus datos nunca se borran y siempre puedes exportar tu manuscrito, incluso sin suscripción. Más detalles en [Licencia y activación](/licensing).
-
-### ¿Cómo funciona la suscripción?
-
-Skribane funciona con suscripción: **11,99 €/mes** o **9,99 €/mes** con el plan anual (119,88 €/año). Mientras tu suscripción esté activa, recibes todas las actualizaciones (nuevas funcionalidades, correcciones, seguridad).
-
-### ¿Qué pasa si cancelo mi suscripción?
-
-Tienes acceso hasta el final del período pagado. Después se muestra una pantalla de bloqueo. Siempre puedes exportar tu manuscrito y tus datos nunca se borran.
-
-### ¿En cuántos equipos puedo usar mi licencia?
-
-En hasta 2 equipos simultáneamente. Si necesitas cambiar de equipo, desactiva la licencia en el anterior y actívala en el nuevo. Más detalles en [Licencia y activación](/licensing).
-
-### He perdido mi license key
-
-La license key te llegó por email tras la compra. Busca un correo de Lemon Squeezy. Si no lo encuentras, escribe a contacto@skribane.com con los datos de tu compra.
+Skribane no cobra por la IA. Pero necesitas tu propia API key de OpenAI, Google Gemini o Anthropic para usar las funciones de IA. También puedes usar modelos locales gratuitos con LM Studio u Ollama sin ningún coste.
 
 ## Inteligencia Artificial
 

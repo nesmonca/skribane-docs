@@ -21,5 +21,5 @@ features:
   - title: 📖 Codex del universo
     details: Define personajes, lugares, objetos, facciones, sistemas y cronología. La IA los consulta automáticamente.
   - title: 🔒 Privacidad total
-    details: App de escritorio. Todos tus datos en tu equipo. Sin servidores. Sin suscripción de IA — tú controlas tus API keys.
+    details: App de escritorio. Todos tus datos en tu equipo. Sin servidores. Sin cuentas. Tú controlas tus API keys.
 ---

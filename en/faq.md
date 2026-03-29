@@ -18,31 +18,15 @@ You can write your novel in any language. Skribane's interface is available in S
 
 Yes. You can create as many projects (novels) as you want. Each project has its own Codex, structure, statistics, and AI configuration. Switch between projects from the "Projects" section in the sidebar.
 
-## License and trial
+## License and download
 
-### How long is the free trial?
+### Is Skribane really free?
 
-21 days, with all features unlocked. You don't need to sign up or enter payment details.
+Yes, Skribane is completely free. You can download it and use all its features without limits. If you want to support development, you can make a voluntary donation.
 
-### What happens when the trial ends?
+### Do I have to pay for the AI?
 
-An activation screen appears. You need an active subscription to continue using Skribane. Your data is never deleted and you can always export your manuscript, even without a subscription. More details at [License and activation](/en/licensing).
-
-### How does the subscription work?
-
-Skribane works on a subscription: **€11.99/month** or **€9.99/month** billed annually (€119.88/year). While your subscription is active, you receive all updates (new features, bug fixes, security).
-
-### What happens if I cancel my subscription?
-
-You keep access until the end of your paid period. After that, a lock screen is displayed. You can always export your manuscript and your data is never deleted.
-
-### How many computers can I use my license on?
-
-Up to 2 computers simultaneously. If you need to switch computers, deactivate the license on the old one and activate it on the new one. More details at [License and activation](/en/licensing).
-
-### I lost my license key
-
-Your license key was sent by email after purchase. Look for an email from Lemon Squeezy. If you can't find it, write to contacto@skribane.com with your purchase details.
+Skribane does not charge for AI. However, you need your own API key from OpenAI, Google Gemini, or Anthropic to use AI features. You can also use free local models with LM Studio or Ollama at no cost.
 
 ## Artificial Intelligence
 
